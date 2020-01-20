@@ -13,41 +13,40 @@
 body{
   width: 100vw;
   height: 100vh;
-  background-color: lightgreen;
 }
 
 header{
   width: 100%;
   height: 15vh;
   padding: 10px;
+  background-color: #FFDC0090;
 }
 
 main{
   width: 100%;
   height: 75vh;
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
 }
 
 footer{
   width: 100%;
   height: 10vh;
   padding: 10px;
+  background-color: #FF413690;
 }
 
 .left{
-  width: 20%;
-  height: 100%;
-  background-color: red;
+  width: 20vw;
+  height: 75vh;
+  background-color: #001f3f90;
   float: left;
   overflow: auto;
   padding: 10px;
 }
 
 .right{
-  width: 80%;
-  height: 100%;
-  background-color: green;
+  width: 80vw;
+  height: 75vh;
+  background-color: #0074D990;
   float: right;
   overflow: auto;
   padding: 10px;
