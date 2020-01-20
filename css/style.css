@@ -42,10 +42,6 @@ footer{
   float: left;
   overflow: auto;
   padding: 10px;
-  /* margin-left: 3px;
-  margin-top: 3px;
-  margin-right: 3px;
-  margin-bottom: 3px; */
 }
 
 .right{
@@ -55,8 +51,4 @@ footer{
   float: right;
   overflow: auto;
   padding: 10px;
-  /* margin-left: 3px;
-  margin-top: 3px;
-  margin-right: 3px;
-  margin-bottom: 3px; */
 }
